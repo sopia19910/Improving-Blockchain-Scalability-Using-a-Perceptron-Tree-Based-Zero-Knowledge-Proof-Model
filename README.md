@@ -1,4 +1,14 @@
-# Improving Blockchain Scalability Using a Perceptron Tree-Based Zero-Knowledge Proof Model
+---
+title: <Improving Blockchain Scalability Using a Perceptron Tree-Based Zero-Knowledge Proof Model>
+description: <Improving Ethereum scalability and privacy using Perceptron Trees to compress transaction data via ZKP.>
+author: <Ryo Ha(@sopia19910), Khajiev Nizomjon(@khajievN)>
+discussions-to: <URL>
+status: Draft
+type: <Standards Track>
+category: <Core> # Only required for Standards Track. Otherwise, remove this field.
+created: <2025-03-19>
+requires: <EIP number(s)> # Only required when you reference an EIP in the `Specification` section. Otherwise, remove this field.
+---
 
 ## Abstract
 
